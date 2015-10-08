@@ -8,4 +8,5 @@ int main()
 	task_1();
 	task_2();
 	assert(task_3_zero() == 0);
+	task_4();
 }
